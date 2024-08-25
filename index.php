@@ -9,9 +9,9 @@
         </style>
     </head>
     <body>
-        <h1>Willkommen auf der Spielwiese</h1>
+        <h1>Hallo Welt</h1>
         <p>
-            PHP-Version: <?= phpversion() ?>
+            <a href="/kadse.html">Hier gibt es Kadsen!</a>
         </p>
     </body>
 </html>
